@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stress</string>
+    <string-array name="hobby">
+    <item>游泳</item>
+    <item>打篮球</item>
+    <item>登山</item>
+    </string-array>
+</resources>
